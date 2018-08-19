@@ -8,3 +8,4 @@ Canvas chart - https://weblogs.asp.net/dwahlin/creating-a-line-chart-using-the-h
 https://reacttraining.com/react-router/web/guides/basic-components
 https://stackoverflow.com/questions/10011011/using-node-js-how-do-i-read-a-json-object-into-server-memory
 express error handling - https://expressjs.com/en/starter/faq.html
+React, Express, Node docs
